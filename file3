@@ -1,3 +1,4 @@
 test
 master:update file3
 dev use file3
+stash use
